@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Generated data files
+output/
+*.csv
+data/
+
+# VSCode settings
+.vscode/
+
+# Misc
+*.log
+.DS_Store
