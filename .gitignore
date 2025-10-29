@@ -8,6 +8,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
 # Misc
 *.log
 .DS_Store
+
+# Keep data and output files
+!data/
+!output/
+!*.csv
