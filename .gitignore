@@ -8,13 +8,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-
-# VSCode settings
-.vscode/
-
 # Misc
 *.log
 .DS_Store
